@@ -16,7 +16,7 @@ const Footer = () => (
 
           {/* Logo section with description */}
           <div className="footer-logo-section">
-            <img src="/images/logo.png" alt="One Ring Rentals" className="footer-logo" />
+            <img src="https://i.postimg.cc/QdhTZyy5/logo.png" alt="One Ring Rentals" className="footer-logo" />
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo eros nibh...</p>
           </div>
 
