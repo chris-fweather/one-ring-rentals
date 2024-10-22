@@ -1,0 +1,39 @@
+.site-header {
+    padding: 10px 0;
+    background-color: #fff;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav-container {
+    display: flex;
+}
+
+.logo img {
+    max-width: 200px;
+    max-height: 100px;
+    padding-top: 10px;
+}
+
+.navigation ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navigation ul li {
+    text-transform: uppercase;
+}
+
+.navigation ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.navigation ul li a:hover {
+    color: #777;
+}
