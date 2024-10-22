@@ -15,7 +15,7 @@ const Header = () => (
       {/* Logo section with a link to the homepage */}
       <div className="logo">
         <Link to="/">
-          <img src="/images/logo.png" alt="One Ring Rentals" />
+          <img src="https://i.postimg.cc/QdhTZyy5/logo.png" alt="One Ring Rentals" />
         </Link>
       </div>
 
